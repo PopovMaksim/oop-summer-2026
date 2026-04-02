@@ -18,3 +18,5 @@ class Table:
         self.color = color
 
 t1 = Table(4, 'black')
+
+print(t1.numlegs, t1.color)
